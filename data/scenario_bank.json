@@ -1,0 +1,46 @@
+[
+  {
+    "card_id": "tackle_01-",
+    "header": {
+      "event_type": "tackle",
+      "outcome": "won",
+      "zone": "midfield",
+      "intensity": "high",
+      "tone": "calm"
+    },
+    "base_line": "{player} steps in and wins it cleanly from {target}."
+  },
+  {
+    "card_id": "goal_001",
+    "header": {
+      "event_type": "goal",
+      "outcome": "scored",
+      "zone": "box",
+      "intensity": "high",
+      "tone": "excited"
+    },
+    "base_line": "It's in! {player} fires it home and sparks wild celebrations!"
+  },
+  {
+    "card_id": "foul_005",
+    "header": {
+      "event_type": "foul",
+      "outcome": "committed",
+      "zone": "defensive_third",
+      "intensity": "medium",
+      "tone": "serious"
+    },
+    "base_line": "{player} goes in too hard and brings down {target}."
+  },
+  {
+    "card_id": "save_012",
+    "header": {
+      "event_type": "save",
+      "outcome": "saved",
+      "zone": "box",
+      "intensity": "high",
+      "tone": "dramatic"
+    },
+    "base_line": "Brilliant reflexes by {player} to deny {target} from close range!"
+  }
+]
